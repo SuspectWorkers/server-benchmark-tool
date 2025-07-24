@@ -23,9 +23,9 @@
 ---
 
 ## Использование
-
+```
 wget https://raw.githubusercontent.com/SuspectWorkers/server-benchmark-tool/refs/heads/main/tester; chmod +x tester; ./tester
-
+```
 ---
 
 ## Требования
